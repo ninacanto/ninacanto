@@ -1,4 +1,4 @@
-[![roadmap.sh](https://roadmap.sh/card/tall/6855977ebaf1527455ea9667?variant=dark&roadmaps=git-github%2Cpython%2Cjavascript%2Creact-native)](https://roadmap.sh)
+<p align="center">[![roadmap.sh](https://roadmap.sh/card/tall/6855977ebaf1527455ea9667?variant=dark)](https://roadmap.sh)</p>
 
 <p align="center">
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninacanto&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=00000000&custom_title=Languages&hide=jupyter%20notebook" alt="ninacanto" />
