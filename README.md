@@ -1,8 +1,6 @@
 <h1 align="center">Hiya, I'm Nina!!</h1>
 <h3 align="center">A passionate frontend dev</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ninacanto" alt="ninacanto" /></a> </p>
-
 - 🔭 I’m currently working on **my game development portfolio**
 
 - 🌱 I’m currently learning **unity, c++ & c#**
